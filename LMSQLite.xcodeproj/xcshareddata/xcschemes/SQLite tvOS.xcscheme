@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A121AC441CA35C79005A31D1"
-               BuildableName = "SQLite.framework"
-               BlueprintName = "SQLite watchOS"
-               ReferencedContainer = "container:SQLite.xcodeproj">
+               BlueprintIdentifier = "03A65E591C6BB0F50062603F"
+               BuildableName = "LMSQLite.framework"
+               BlueprintName = "LMSQLite tvOS"
+               ReferencedContainer = "container:LMSQLite.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,7 +27,26 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "03A65E591C6BB0F50062603F"
+            BuildableName = "LMSQLite.framework"
+            BlueprintName = "LMSQLite tvOS"
+            ReferencedContainer = "container:LMSQLite.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "03A65E621C6BB0F60062603F"
+               BuildableName = "LMSQLiteTests tvOS.xctest"
+               BlueprintName = "LMSQLiteTests tvOS"
+               ReferencedContainer = "container:LMSQLite.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -43,10 +62,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A121AC441CA35C79005A31D1"
-            BuildableName = "SQLite.framework"
-            BlueprintName = "SQLite watchOS"
-            ReferencedContainer = "container:SQLite.xcodeproj">
+            BlueprintIdentifier = "03A65E591C6BB0F50062603F"
+            BuildableName = "LMSQLite.framework"
+            BlueprintName = "LMSQLite tvOS"
+            ReferencedContainer = "container:LMSQLite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -59,10 +78,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A121AC441CA35C79005A31D1"
-            BuildableName = "SQLite.framework"
-            BlueprintName = "SQLite watchOS"
-            ReferencedContainer = "container:SQLite.xcodeproj">
+            BlueprintIdentifier = "03A65E591C6BB0F50062603F"
+            BuildableName = "LMSQLite.framework"
+            BlueprintName = "LMSQLite tvOS"
+            ReferencedContainer = "container:LMSQLite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -1,4 +1,4 @@
-import SQLite
+import LMSQLite
 
 /// Create an in-memory database
 let db = try Connection(.inMemory)
